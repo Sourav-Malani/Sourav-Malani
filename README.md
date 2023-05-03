@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sourav Malani
-- 👀 I’m interested in Hacking but don't really know any so just suck with learning in university 
-- 🌱 I’m currently learning C++ Data Structures, Data Mining, and Software Design and Analysis.
+- 👀 I’m interested in Hacking but don't really know any so just stuck with learning in university 
+- 🌱 I’m currently learning Ehical Hacking and Infromation Security.
 - 💞️ I’m looking to collaborate on anything i can.
 - 📫 You can reach me at : i190434@nu.edu.pk
 
