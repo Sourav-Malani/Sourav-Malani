@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sourav Malani
 - 👀 I’m interested in Hacking but don't really know any so just stuck with learning in university 
-- 🌱 I’m currently learning Ehical Hacking and Infromation Security.
-- 💞️ I’m looking to collaborate on anything i can.
+- 🌱 I’m currently learning Software for Mobile Devices, Web Design, and Machine Learning Operations.
+- 💞️ I’m looking to collaborate on anything I can.
 - 📫 You can reach me at : i190434@nu.edu.pk
 
 <!---
